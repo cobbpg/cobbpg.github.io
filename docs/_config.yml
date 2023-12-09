@@ -1,4 +1,10 @@
 theme: minima
 title: Patai Gergely
-description: Patai Gergely
+description: 8 bits should be enough for everyone!
 repository: cobbpg.github.io
+minima:
+  social_links:
+    - { platform: mastodon, user_url: "https://mastodon.gamedev.place/@cobbpg" }
+    - { platform: youtube, user_url: "https://www.youtube.com/user/kaviolalainen" }
+    - { platform: github, user_url: "https://github.com/cobbpg" }
+    - { platform: twitter, user_url: "https://twitter.com/cobbpg" }

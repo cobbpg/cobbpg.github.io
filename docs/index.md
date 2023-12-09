@@ -1,3 +1,9 @@
+<style>
+  .social-media-list li {
+    display: inline;
+  }
+</style>
+
 There's not all that much content here for the time being.
 
 * [Porting Stunt Car Racer to the Commodore Plus/4](articles/stunt-car-racer-plus4-port.html)
@@ -18,4 +24,5 @@ Obligatory links:
 
 * [Mastodon](https://mastodon.gamedev.place/@cobbpg)
 * [YouTube](https://www.youtube.com/user/kaviolalainen)
+* [GitHub](https://github.com/cobbpg)
 * [Twitter](https://twitter.com/cobbpg) (I'm not using this one very actively any more but still post about releases.)
