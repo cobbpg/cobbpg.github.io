@@ -8,6 +8,7 @@ There's not all that much content here for the time being.
 
 * [Porting Stunt Car Racer to the Commodore Plus/4](articles/stunt-car-racer-plus4-port.html)
 * [Porting Stunt Car Racer to the Apple II](articles/stunt-car-racer-apple2-port.html)
+* [Pushing the Boundaries of C64 Graphics with NUFLIX](articles/nuflix.html)
 
 Some of my work:
 
