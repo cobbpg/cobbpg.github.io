@@ -12,6 +12,7 @@ There's not all that much content here for the time being.
 
 Some of my work:
 
+* [NUFLIX (Desktop Platforms)](https://github.com/cobbpg/nuflix-studio) ([Releases](https://github.com/cobbpg/nuflix-studio/releases), [Manual](https://github.com/cobbpg/nuflix-studio/blob/main/manual/manual.md))
 * [My Day on the Highway (C64)](https://www.youtube.com/watch?v=cv2FWWNywsA)
 * [Stunt Car Racer 50 FPS fix (C64)](https://csdb.dk/release/index.php?id=230122)
 * [Stunt Car Racer Port (Plus/4)](https://plus4world.powweb.com/software/Stunt_Car_Racer)
