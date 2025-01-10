@@ -148,6 +148,9 @@ The way NUFLI images are set up, the background spans rasters 48-247. This is a 
 
 The NUFLI implementation leverages another esoteric bug in the VIC-II called [sprite crunching](https://www.linusakesson.net/scene/lunatico/misc.php). In a nutshell, by toggling Y-expansion just at the right time the video hardware can be tricked into messing up the current sprite offsets that normally advance by 3 bytes per scanline. This causes the sprite to be displayed three times in a row with different offsets, because the hardware is looking for byte offset 63 to conclude the sprite, which it misses due to the misaligned position, and the 6-bit counter wraps around twice before the process ends.
 
+![Sprite crunching example](/assets/nuflix/sprite-crunching.png){: style="width: 75%"}
+<span>The famous Commodore balloon sprite shown normally and crunched on its third row. The byte with the alternating bit pattern (chosen for demonstration purposes) would never be visible without exploiting this bug in the hardware.</span>{:.image-caption}
+
 In the case of NUFLI, the scrambled sprites cover the first 123 scanlines, and with the additional move during the initialisation we get 165 rows for free in total. Since at this point we have only 35 rows left, we can cover the full screen with sprites by updating each of them only once within the visible area! We just have to make sure that they are all moved before reaching the end of background row 164 (raster 212). All in all, this trick saves us 16 register updates for the Y positions, and we can use the time to update colours instead.
 
 This is how the sprite update schedule works specifically in NUFLI:
