@@ -18,6 +18,7 @@ Some of my work:
 * [Stunt Car Racer Port (Plus/4)](https://plus4world.powweb.com/software/Stunt_Car_Racer)
 * [Stunt Car Racer Port (Apple II)](/assets/media/StuntCarRacer-AppleII.zip)
 * [Kye port (C64)](https://cobbpg.itch.io/kye-c64)
+* [Kye port (Plus/4)](https://plus4world.powweb.com/software/Kye)
 * [Acelgoyobis (TI-82/83/83+)](https://www.ticalc.org/archives/files/fileinfo/355/35586.html)
 * [PindurTI emulator (Windows)](https://github.com/cobbpg/pindurti)
 * [Quick and Dirty Apple II HGR Painter (HTML)](https://github.com/cobbpg/apple-ii-painter)
@@ -27,4 +28,4 @@ Obligatory links:
 * [Mastodon](https://mastodon.gamedev.place/@cobbpg)
 * [YouTube](https://www.youtube.com/user/kaviolalainen)
 * [GitHub](https://github.com/cobbpg)
-* [Twitter](https://twitter.com/cobbpg) (I'm not using this one very actively any more but still post about releases.)
+* [Twitter](https://twitter.com/cobbpg) (RIP)
