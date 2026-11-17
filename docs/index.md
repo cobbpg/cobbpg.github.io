@@ -6,6 +6,7 @@
 
 There's not all that much content here for the time being.
 
+* [Porting Stunt Car Racer to the NES](articles/stunt-car-racer-nes-port.html)
 * [Porting Stunt Car Racer to the Commodore 128](articles/stunt-car-racer-c128-port.html)
 * [Porting Stunt Car Racer to the Commodore Plus/4](articles/stunt-car-racer-plus4-port.html)
 * [Porting Stunt Car Racer to the Apple II](articles/stunt-car-racer-apple2-port.html)
@@ -18,6 +19,8 @@ Some of my work:
 * [Stunt Car Racer 50 FPS fix (C64)](https://csdb.dk/release/index.php?id=230122)
 * [Stunt Car Racer Port (Plus/4)](https://plus4world.powweb.com/software/Stunt_Car_Racer)
 * [Stunt Car Racer Port (Apple II)](/assets/media/StuntCarRacer-AppleII.zip)
+* [Stunt Car Racer Port (C128)](https://csdb.dk/release/?id=257046)
+* [Stunt Car Racer Port (NES)](https://cobbpg.itch.io/stunt-car-racer-nes)
 * [Kye port (C64)](https://cobbpg.itch.io/kye-c64)
 * [Kye port (Plus/4)](https://plus4world.powweb.com/software/Kye)
 * [Acelgoyobis (TI-82/83/83+)](https://www.ticalc.org/archives/files/fileinfo/355/35586.html)
